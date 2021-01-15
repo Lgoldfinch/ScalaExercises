@@ -6,7 +6,7 @@ val randomNumber = Helpers.getRandomWholeNum
 * if 1 - print your name
 * if 2 - print the team you're in
 * if 3 - print your role
-* else - print a random word of your choice (nothing rude)
+* else - print a random word of your choice (no profanities please)
  */
 randomNumber match {
 }
